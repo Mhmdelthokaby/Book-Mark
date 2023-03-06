@@ -1,0 +1,18 @@
+.in{
+    border-top:1px  solid  rgb(136, 134, 134);
+    border-bottom: 1px  solid  rgb(136, 134, 134);
+}
+.content .wall {
+    background-color: rgb(238, 238, 238);
+}
+ button:hover{
+    background-color: rgb(10, 63, 119);
+    border: 1px solid rgb(10, 63, 119);
+    box-shadow: rgb(136, 136, 136) 2px 5px 3px 0px;
+}
+.show2{
+    background-image: linear-gradient(#EEE,#FFF);
+}
+.show2 .bt{
+    width: 100px;
+}
